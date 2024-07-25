@@ -171,73 +171,73 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Working with Brinsol was a game-changer for our business. Their team’s expertise and creativity brought our vision to life in ways we never imagined. Their attention to detail and commitment to excellence is unparalleled.",
-    name: "Emily Johnson",
+      "Working with Arran was a game-changer for our business. Their team’s expertise and creativity brought our vision to life in ways we never imagined. Their attention to detail and commitment to excellence is unparalleled.",
+    name: "Micheal Stark",
     title: "CEO, Creative Minds Inc.",
-    imgs: "profile.svg",
+    imgs: "pp1.svg",
   },
   {
     quote:
-      "Brinsol exceeded our expectations in every way. Their team's innovative approach and dedication to our project ensured a seamless experience from start to finish. Highly recommend for any web development and marketing needs!",
-    name: "Michael Smith",
+      "Arran exceeded our expectations in every way. Their team's innovative approach and dedication to our project ensured a seamless experience from start to finish. Highly recommend for any web development and marketing needs!",
+    name: "Mark Usher",
     title: "Marketing Director, Tech Solutions Ltd.",
-    imgs: "profile.svg",
+    imgs: "pp4.svg",
   },
   {
     quote:
-      "The team at Brinsol is exceptional. Their professionalism and expertise in website development and marketing helped us achieve our goals efficiently. Their commitment to client satisfaction is commendable.",
+      "The team with Arran at Brinsol is exceptional. Their professionalism and expertise in website development and marketing helped us achieve our goals efficiently. Their commitment to client satisfaction is commendable.",
     name: "Sarah Lee",
     title: "Operations Manager, Health First Clinics",
-    imgs: "profile.svg",
+    imgs: "pp2.svg",
   },
   {
     quote:
-      "Brinsol transformed our online presence with their top-notch website development services. Their team’s proactive communication and exceptional skill set made the entire process smooth and enjoyable. We couldn't be happier with the results!",
+      "Arran transformed our online presence with their top-notch website development services. Their team’s proactive communication and exceptional skill set made the entire process smooth and enjoyable. We couldn't be happier with the results!",
     name: "David Brown",
     title: "Founder, Brown & Co.",
-    imgs: "profile.svg",
+    imgs: "pp5.svg",
   },
   {
     quote:
-      "Choosing Brinsol was the best decision we made for our business. Their team's creativity and technical prowess turned our ideas into reality. Their dedication to delivering high-quality work is truly impressive.",
-    name: "Jessica Williams",
+      "Choosing Arran was the best decision we made for our business. Their team's creativity and technical prowess turned our ideas into reality. Their dedication to delivering high-quality work is truly impressive.",
+    name: "Daniel Mac",
     title: "Creative Director, JW Designs",
-    imgs: "profile.svg",
+    imgs: "pp6.svg",
   },
   {
     quote:
-      "Brinsol's team is phenomenal. They took the time to understand our needs and delivered a website that perfectly represents our brand. Their professionalism and attention to detail are unmatched.",
+      "Arran's team is phenomenal. They took the time to understand our needs and delivered a website that perfectly represents our brand. Their professionalism and attention to detail are unmatched.",
     name: "John Miller",
     title: "COO, Future Innovations",
-    imgs: "profile.svg",
+    imgs: "pp7.svg",
   },
   {
     quote:
-      "The professionalism and expertise of Brinsol's team are second to none. They delivered a stunning website that exceeded our expectations. Their commitment to quality and client satisfaction is truly admirable.",
-    name: "Olivia Davis",
+      "The professionalism and expertise of Arran's team are second to none. They delivered a stunning website that exceeded our expectations. Their commitment to quality and client satisfaction is truly admirable.",
+    name: "Dave Johnson",
     title: "Product Manager, GreenTech Solutions",
-    imgs: "profile.svg",
+    imgs: "pp8.svg",
   },
   {
     quote:
-      "Brinsol brought our vision to life with their exceptional web development skills. Their team's dedication and professionalism were evident throughout the entire project. We highly recommend their services!",
-    name: "Daniel Wilson",
+      "Arran brought our vision to life with their exceptional web development skills. Their team's dedication and professionalism were evident throughout the entire project. We highly recommend their services!",
+    name: "Justin Sage",
     title: "CEO, Wilson Enterprises",
-    imgs: "profile.svg",
+    imgs: "pp9.svg",
   },
   {
     quote:
-      "The team at Brinsol is outstanding. Their expertise in website development and marketing helped us elevate our brand significantly. Their commitment to delivering exceptional results is truly commendable.",
+      "The team with Arran at Brinsol is outstanding. Their expertise in website development and marketing helped us elevate our brand significantly. Their commitment to delivering exceptional results is truly commendable.",
     name: "Emma Martinez",
     title: " Marketing Manager, Solar Innovations",
-    imgs: "profile.svg",
+    imgs: "pp11.svg",
   },
   {
     quote:
-      "Collaborating with Brinsol was a fantastic experience. Their team's expertise in web development and marketing helped us achieve our objectives efficiently. Their dedication to client success is evident in every project they undertake.",
-    name: "James Anderson",
+      "Collaborating with Arran was a fantastic experience. Their team's expertise in web development and marketing helped us achieve our objectives efficiently. Their dedication to client success is evident in every project they undertake.",
+    name: "Hunais Ahmed",
     title: "Founder, Anderson Solutions",
-    imgs: "profile.svg",
+    imgs: "pp10.svg",
   },
 ];
 
