@@ -102,38 +102,142 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
   },
+  {
+    id: 4,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/ui.apple.com",
+  },
+  {
+    id: 4,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/ui.apple.com",
+  },
+  {
+    id: 4,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/ui.apple.com",
+  },
+  {
+    id: 4,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/ui.apple.com",
+  },
+  {
+    id: 4,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/ui.apple.com",
+  },
+  {
+    id: 4,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/ui.apple.com",
+  },
+  {
+    id: 4,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/ui.apple.com",
+  },
+  {
+    id: 4,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/ui.apple.com",
+  },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Brinsol was a game-changer for our business. Their team’s expertise and creativity brought our vision to life in ways we never imagined. Their attention to detail and commitment to excellence is unparalleled.",
+    name: "Emily Johnson",
+    title: "CEO, Creative Minds Inc.",
+    imgs: "profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Brinsol exceeded our expectations in every way. Their team's innovative approach and dedication to our project ensured a seamless experience from start to finish. Highly recommend for any web development and marketing needs!",
+    name: "Michael Smith",
+    title: "Marketing Director, Tech Solutions Ltd.",
+    imgs: "profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The team at Brinsol is exceptional. Their professionalism and expertise in website development and marketing helped us achieve our goals efficiently. Their commitment to client satisfaction is commendable.",
+    name: "Sarah Lee",
+    title: "Operations Manager, Health First Clinics",
+    imgs: "profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Brinsol transformed our online presence with their top-notch website development services. Their team’s proactive communication and exceptional skill set made the entire process smooth and enjoyable. We couldn't be happier with the results!",
+    name: "David Brown",
+    title: "Founder, Brown & Co.",
+    imgs: "profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Choosing Brinsol was the best decision we made for our business. Their team's creativity and technical prowess turned our ideas into reality. Their dedication to delivering high-quality work is truly impressive.",
+    name: "Jessica Williams",
+    title: "Creative Director, JW Designs",
+    imgs: "profile.svg",
+  },
+  {
+    quote:
+      "Brinsol's team is phenomenal. They took the time to understand our needs and delivered a website that perfectly represents our brand. Their professionalism and attention to detail are unmatched.",
+    name: "John Miller",
+    title: "COO, Future Innovations",
+    imgs: "profile.svg",
+  },
+  {
+    quote:
+      "The professionalism and expertise of Brinsol's team are second to none. They delivered a stunning website that exceeded our expectations. Their commitment to quality and client satisfaction is truly admirable.",
+    name: "Olivia Davis",
+    title: "Product Manager, GreenTech Solutions",
+    imgs: "profile.svg",
+  },
+  {
+    quote:
+      "Brinsol brought our vision to life with their exceptional web development skills. Their team's dedication and professionalism were evident throughout the entire project. We highly recommend their services!",
+    name: "Daniel Wilson",
+    title: "CEO, Wilson Enterprises",
+    imgs: "profile.svg",
+  },
+  {
+    quote:
+      "The team at Brinsol is outstanding. Their expertise in website development and marketing helped us elevate our brand significantly. Their commitment to delivering exceptional results is truly commendable.",
+    name: "Emma Martinez",
+    title: " Marketing Manager, Solar Innovations",
+    imgs: "profile.svg",
+  },
+  {
+    quote:
+      "Collaborating with Brinsol was a fantastic experience. Their team's expertise in web development and marketing helped us achieve our objectives efficiently. Their dedication to client success is evident in every project they undertake.",
+    name: "James Anderson",
+    title: "Founder, Anderson Solutions",
+    imgs: "profile.svg",
   },
 ];
 
@@ -173,29 +277,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Website Design Intern",
+    desc: "Assisted in the development of a web-based platform using Next/React, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Performance Marketer, Brinsol",
+    desc: "Working as a full time ssales manager and marketing person for Brinsol Agency.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    desc: "Led the dev of a website for a client, from initial concept to deployment a professional store.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Marketing Strategist",
+    desc: "Developed and maintained high revenue generating sales strategy for maximum ROAS.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -205,13 +309,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    lnk:'https://facebook.com'
   },
   {
     id: 2,
     img: "/twit.svg",
+    lnk:'https://facebook.com'
   },
   {
     id: 3,
     img: "/link.svg",
+    lnk:'https://facebook.com'
   },
 ];
