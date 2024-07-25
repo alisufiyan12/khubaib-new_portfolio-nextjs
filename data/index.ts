@@ -308,7 +308,7 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/wha.svg",
+    img: "/insta.svg",
     lnk:'https://facebook.com'
   },
   {
