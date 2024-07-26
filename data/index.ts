@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Looking to expand your business? well you are at the righ place",
+    title: "Looking to expand your business? well you are at the right place",
     description: "",
     className: "lg:col-span-3 overflow-hidden md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -308,10 +308,10 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/insta.svg",
-    lnk:'https://facebook.com'
+    img: "/wha.svg",
+    lnk:'https://wa.me/447481272020'
   },
-  {
+  /*{
     id: 2,
     img: "/twit.svg",
     lnk:'https://facebook.com'
@@ -320,5 +320,5 @@ export const socialMedia = [
     id: 3,
     img: "/link.svg",
     lnk:'https://facebook.com'
-  },
+  }, */
 ];

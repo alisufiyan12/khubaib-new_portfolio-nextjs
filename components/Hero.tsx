@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Arran, a Developer & Marketer based in Devon, Uk.
+            Hi! I&apos;m Arran, a Developer & Marketer based in Devon, UK.
           </p>
 
           <a href="#about">
