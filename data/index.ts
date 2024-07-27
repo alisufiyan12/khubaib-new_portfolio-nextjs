@@ -70,6 +70,24 @@ export const gridItems = [
 ];
 
 export const projects = [
+  //cosmetics - cards:
+  {
+    id: 1,
+    title: "Cherie - Beauty and Perosnal Care",
+    des: "Brand website template for all kind of beauty saloons and boutiques showcasing top notch services and booking system..",
+    img: "/cosmetic1.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://firstsight.design/cherie/beauty/",
+  },
+  {
+    id: 2,
+    title: "Lotus - Beauty Saloon SPA",
+    des: "A website design for therapy, skincare and customized for any type beauty and skincare industry",
+    img: "/cosmetic2.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://websitedemos.net/lotus-spa-02/",
+  },
+  /*
   {
     id: 1,
     title: "Cube - Multi Tenant Saas App",
@@ -86,8 +104,25 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://statichunt.com/demo/nextjs-project-hoobank",
   },
+  */
   {
     id: 3,
+    title: "Cube - Multi Tenant Saas App",
+    des: "Multi tenant website temp structure for on-Grid systems and user centric website helping cus..",
+    img: "/den20.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://statichunt.com/demo/nextjs-cube",
+  },
+  {
+    id: 4,
+    title: "Hoobank - AI Supported Saas",
+    des: "Advance payment system for AI-Saas in the finance industry and currency API integration sy..",
+    img: "/den25.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://statichunt.com/demo/nextjs-project-hoobank",
+  },
+  {
+    id: 5,
     title: "Alotan - Barber Shop Template",
     des: "Barber shop with multiple page system covering all the aspects of a proper hairstyling busi.",
     img: "/den17.svg",
@@ -95,7 +130,7 @@ export const projects = [
     link: "https://preview.colorlib.com/theme/alotan/",
   },
   {
-    id: 4,
+    id: 6,
     title: "Barbero - Barber Shop Template",
     des: "Hairstyling and shaping website, containing customer booking systems and response system for..",
     img: "/den15.svg",
@@ -103,7 +138,7 @@ export const projects = [
     link: "https://preview.colorlib.com/theme/barbero/",
   },
   {
-    id: 4,
+    id: 7,
     title: "Fable - Bakery Business Shop",
     des: "Bakery business design template accessing multiple customer queries systems and customer support..",
     img: "/den5.svg",
@@ -111,7 +146,7 @@ export const projects = [
     link: "https://demo.ovatheme.com/fable_bakery/",
   },
   {
-    id: 4,
+    id: 8,
     title: "Bready - Fresh Bread Store",
     des: "Fresh and sweet bread selling online store design for food industry products and multi level str..",
     img: "/den6.svg",
@@ -119,7 +154,7 @@ export const projects = [
     link: "http://preview.themeforest.net/item/bready-cake-bakery-wordpress-theme/full_screen_preview/23643179?clickid=zauSWeXMWxyPUR9RiQWj01vfUkC2pvUmG1Pow00&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=369282&mp_value1=&utm_campaign=af_impact_radius_369282&utm_medium=affiliate&utm_source=impact_radius",
   },
   {
-    id: 4,
+    id: 9,
     title: "GSSoC - Coding Bootcamp App",
     des: "International level coding bootcamp for CS/AI/Data students shaping and enhancing their skillset..",
     img: "/den28.svg",
@@ -127,7 +162,7 @@ export const projects = [
     link: "https://statichunt.com/demo/nextjs-gssoc-website-new",
   },
   {
-    id: 4,
+    id: 10,
     title: "Taxonomy - Next.js Sales Kit",
     des: "Next javascript sales kit for developers to reuse in development making seamless user experience..",
     img: "/den29.svg",
@@ -135,7 +170,7 @@ export const projects = [
     link: "https://statichunt.com/demo/nextjs-taxonomy",
   },
   {
-    id: 4,
+    id: 11,
     title: "Flavio - Restaurant Chain Website",
     des: "Restaurant chain flavio website, covering customer orders recommendations and serving round th..",
     img: "/den9.svg",
@@ -143,7 +178,7 @@ export const projects = [
     link: "https://websitedemos.net/flavio-restaurant-04/",
   },
   {
-    id: 4,
+    id: 12,
     title: "Audiophile - Accessories Ecommerce Store ",
     des: "Store dealing with audio accessories and headsets covering widerange of audio sets and combo's at..",
     img: "/den26.svg",
@@ -151,7 +186,7 @@ export const projects = [
     link: "https://statichunt.com/demo/nextjs-audiophile-ecommerce-website",
   },
   {
-    id: 4,
+    id: 13,
     title: "Fiona - Bread Stock Shop",
     des: "Bread selling store offering numerous shapes and sizes of breads aong with other cupcakes and st..",
     img: "/den11.svg",
@@ -159,7 +194,7 @@ export const projects = [
     link: "https://websitedemos.net/fiona-patisserie-04/",
   },
   {
-    id: 4,
+    id: 14,
     title: "The Pizzeria - Fast Food Restaurant Temp",
     des: "Fast food restaurant website, that serves a wide range of fast food specially pizza's throughout..",
     img: "/den12.svg",
