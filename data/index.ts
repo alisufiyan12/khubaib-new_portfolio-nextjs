@@ -73,7 +73,7 @@ export const projects = [
   //cosmetics - cards:
   {
     id: 1,
-    title: "Cherie - Beauty and Perosnal Care",
+    title: "Cherie - Beauty and Personal Care",
     des: "Brand website template for all kind of beauty saloons and boutiques showcasing top notch services and booking system..",
     img: "/cosmetic1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
