@@ -29,7 +29,7 @@ const Approach = () => {
           title="Development & Progress Update"
           icon={<AceternityIcon order="Phase 2" />}
           des="Once we agree on the plan, We cue our lofi playlist and dive into
-          coding. From initial sketches to polished code, We keep you updated
+          development. From initial sketches to polished web design, We keep you updated
           every step of the way."
         >
           <CanvasRevealEffect
@@ -51,7 +51,7 @@ const Approach = () => {
           title="Development & Launch"
           icon={<AceternityIcon order="Phase 3" />}
           des="This is where the magic happens! Based on the approved design, 
-          We'll translate everything into functional code, building your website
+          We'll translate everything into brand website, building your website
           from the ground up and turning your business website to a jaw dropping online
           customer experience."
         >
