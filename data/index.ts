@@ -72,6 +72,22 @@ export const gridItems = [
 export const projects = [
   //cosmetics - cards:
   {
+    id: 9,
+    title: "FRANK - Jewelry Website Template ",
+    des: "International Jewelry store design for selling artificial jewelry showcasing product in it's g..",
+    img: "/jewlery1.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://statichunt.com/demo/nextjs-gssoc-website-new",
+  },
+  {
+    id: 10,
+    title: "SOTZU - Jewelry Sales Kit",
+    des: "Next javascript jewelry  website template for developers to reuse in development making seam..",
+    img: "/jewel2.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://statichunt.com/demo/nextjs-taxonomy",
+  },
+  {
     id: 1,
     title: "Cherie - Beauty and Personal Care",
     des: "Brand website template for all kind of beauty saloons and boutiques showcasing top notch services and booking system..",
@@ -152,22 +168,6 @@ export const projects = [
     img: "/den6.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "http://preview.themeforest.net/item/bready-cake-bakery-wordpress-theme/full_screen_preview/23643179?clickid=zauSWeXMWxyPUR9RiQWj01vfUkC2pvUmG1Pow00&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=369282&mp_value1=&utm_campaign=af_impact_radius_369282&utm_medium=affiliate&utm_source=impact_radius",
-  },
-  {
-    id: 9,
-    title: "GSSoC - Coding Bootcamp App",
-    des: "International level coding bootcamp for CS/AI/Data students shaping and enhancing their skillset..",
-    img: "/den28.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://statichunt.com/demo/nextjs-gssoc-website-new",
-  },
-  {
-    id: 10,
-    title: "Taxonomy - Next.js Sales Kit",
-    des: "Next javascript sales kit for developers to reuse in development making seamless user experience..",
-    img: "/den29.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://statichunt.com/demo/nextjs-taxonomy",
   },
   {
     id: 11,
