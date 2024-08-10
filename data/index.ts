@@ -13,7 +13,7 @@ export const gridItems = [
     className: "lg:col-span-3 overflow-hidden md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/mul1.svg",
+    img: "/khub2.svg",
     spareImg: "",
   },
   {
