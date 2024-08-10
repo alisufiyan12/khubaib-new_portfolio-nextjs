@@ -37,7 +37,7 @@ const Footer = () => {
           Copyright © 2024 <span className="text-[#EA3A60]">Brinsol.Agency</span>
         </p>
 
-        <div className="flex items-center md:gap-3 gap-6">
+        <div className="flex items-center md:gap-3 gap-6 mt-4 sm:mt-0">
           {socialMedia.map((info) => (
             <div
               key={info.id}
